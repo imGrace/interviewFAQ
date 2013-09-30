@@ -28,6 +28,7 @@
 		84F962C217F961530094F109 /* Sigleton */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Sigleton; sourceTree = BUILT_PRODUCTS_DIR; };
 		84F962C517F961530094F109 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		84F962C717F961530094F109 /* Sigleton.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = Sigleton.1; sourceTree = "<group>"; };
+		84F962CE17F9638A0094F109 /* Singleton.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Singleton.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +62,7 @@
 			isa = PBXGroup;
 			children = (
 				84F962C517F961530094F109 /* main.cpp */,
+				84F962CE17F9638A0094F109 /* Singleton.h */,
 				84F962C717F961530094F109 /* Sigleton.1 */,
 			);
 			path = Sigleton;
@@ -216,6 +218,7 @@
 				84F962CD17F961530094F109 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
