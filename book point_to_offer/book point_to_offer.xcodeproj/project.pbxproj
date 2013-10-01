@@ -26,6 +26,7 @@
 
 /* Begin PBXFileReference section */
 		8456FE2B17FAC72A0063814A /* Q37.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Q37.h; sourceTree = "<group>"; };
+		8456FE2C17FAE6270063814A /* Q38.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Q38.h; sourceTree = "<group>"; };
 		84F962D817F96BCB0094F109 /* book point_to_offer */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "book point_to_offer"; sourceTree = BUILT_PRODUCTS_DIR; };
 		84F962DB17F96BCB0094F109 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		84F962DD17F96BCB0094F109 /* book_point_to_offer.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = book_point_to_offer.1; sourceTree = "<group>"; };
@@ -68,6 +69,7 @@
 				84F962E517F9757B0094F109 /* Q36.h */,
 				84F962DD17F96BCB0094F109 /* book_point_to_offer.1 */,
 				8456FE2B17FAC72A0063814A /* Q37.h */,
+				8456FE2C17FAE6270063814A /* Q38.h */,
 			);
 			path = "book point_to_offer";
 			sourceTree = "<group>";
