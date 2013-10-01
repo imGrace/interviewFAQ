@@ -7,13 +7,20 @@
 //
 
 #include <iostream>
-#include "Q35.h"
+#include "Q36.h"
 
 using namespace std;
 int main(int argc, const char * argv[])
 {
-    string str("abacdereegbdrgec");
-    cout << FirstNotRepeatingChar(str);
+    vector<int> vec;
+    vec.push_back(7);
+    vec.push_back(5);
+    vec.push_back(6);
+    vec.push_back(1);
+    vec.push_back(2);
+    
+    
+    cout << InversePairs(vec);
     return 0;
 }
 
