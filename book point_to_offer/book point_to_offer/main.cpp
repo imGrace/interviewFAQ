@@ -7,13 +7,15 @@
 //
 
 #include <iostream>
-#include "Q41.h"
+#include "Q42.h"
 
 using namespace std;
 int main(int argc, const char * argv[])
 {
-    int data[] = {1,2,3,4,5,6,7,8,9};
-    FindContinuousSequence(data, 10, 15);
+    char data[] = "i m liudi.";
+    cout << data << endl;
+    LeftRotationString(data, 3);
+    cout << data << endl;
     return 0;
 }
 
