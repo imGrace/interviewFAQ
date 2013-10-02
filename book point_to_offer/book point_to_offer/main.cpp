@@ -7,15 +7,12 @@
 //
 
 #include <iostream>
-#include "Q42.h"
+#include "Q43.h"
 
 using namespace std;
 int main(int argc, const char * argv[])
 {
-    char data[] = "i m liudi.";
-    cout << data << endl;
-    LeftRotationString(data, 3);
-    cout << data << endl;
+    PrintProbability(5);
     return 0;
 }
 
