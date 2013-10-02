@@ -25,6 +25,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		8436B30C17FBBF6200337274 /* Q40.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Q40.h; sourceTree = "<group>"; };
 		8456FE2B17FAC72A0063814A /* Q37.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Q37.h; sourceTree = "<group>"; };
 		8456FE2C17FAE6270063814A /* Q38.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Q38.h; sourceTree = "<group>"; };
 		8456FE2D17FB05560063814A /* Q39.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Q39.h; sourceTree = "<group>"; };
@@ -72,6 +73,7 @@
 				8456FE2B17FAC72A0063814A /* Q37.h */,
 				8456FE2C17FAE6270063814A /* Q38.h */,
 				8456FE2D17FB05560063814A /* Q39.h */,
+				8436B30C17FBBF6200337274 /* Q40.h */,
 			);
 			path = "book point_to_offer";
 			sourceTree = "<group>";
