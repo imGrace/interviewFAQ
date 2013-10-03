@@ -7,12 +7,12 @@
 //
 
 #include <iostream>
-#include "Q43.h"
+#include "Q44.h"
 
 using namespace std;
 int main(int argc, const char * argv[])
 {
-    PrintProbability(5);
+    //PrintProbability(5);
     return 0;
 }
 
