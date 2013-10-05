@@ -1,4 +1,6 @@
 interviewFAQ
 ============
 the Questions that I encounter in the interviews;
-book is --> 剑指offer
+under XCode 4.6.3
+Q1-Q50是剑指offer;
+
