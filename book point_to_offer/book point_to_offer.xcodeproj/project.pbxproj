@@ -25,6 +25,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		840BB06217FFBDD800C03FDC /* Q47.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Q47.h; sourceTree = "<group>"; };
+		840BB06317FFF38800C03FDC /* Q48.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Q48.h; sourceTree = "<group>"; };
+		840BB0641800014500C03FDC /* Q49.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Q49.h; sourceTree = "<group>"; };
 		8431FB4C17FBF2CA00FB9909 /* Q42.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Q42.h; sourceTree = "<group>"; };
 		8431FB4D17FC742700FB9909 /* Q43.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Q43.h; sourceTree = "<group>"; };
 		8436B30C17FBBF6200337274 /* Q40.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Q40.h; sourceTree = "<group>"; };
@@ -88,6 +91,9 @@
 				84FD911017FD9293001D214B /* Q45.h */,
 				84D003AE17FEEBBF00E5F972 /* Q46.h */,
 				84D34FA217FFB6FC00441E0D /* template metaprogram.h */,
+				840BB06217FFBDD800C03FDC /* Q47.h */,
+				840BB06317FFF38800C03FDC /* Q48.h */,
+				840BB0641800014500C03FDC /* Q49.h */,
 			);
 			path = "book point_to_offer";
 			sourceTree = "<group>";

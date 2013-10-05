@@ -7,12 +7,15 @@
 //
 
 #include <iostream>
-#include "template metaprogram.h"
+#include "Q49.h"
 
 using namespace std;
 int main(int argc, const char * argv[])
 {
-    cout << Fib<6>::N << endl;
+    int output = 0;
+    char a[] = "12456";
+    std::cout << StrToInt(a, output) << std::endl;
+    std::cout << output << endl;
     return 0;
 }
 
