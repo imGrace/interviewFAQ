@@ -7,12 +7,12 @@
 //
 
 #include <iostream>
-#include "Q46.h"
+#include "template metaprogram.h"
 
 using namespace std;
 int main(int argc, const char * argv[])
 {
-    cout << SumSelution_2(100) << endl;
+    cout << Fib<6>::N << endl;
     return 0;
 }
 
