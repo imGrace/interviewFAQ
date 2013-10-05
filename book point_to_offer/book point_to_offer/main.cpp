@@ -7,12 +7,12 @@
 //
 
 #include <iostream>
-#include "Q45.h"
+#include "Q46.h"
 
 using namespace std;
 int main(int argc, const char * argv[])
 {
-    //PrintProbability(5);
+    cout << SumSelution_2(100) << endl;
     return 0;
 }
 
