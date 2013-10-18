@@ -32,6 +32,8 @@
 		8431FB4C17FBF2CA00FB9909 /* Q42.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Q42.h; sourceTree = "<group>"; };
 		8431FB4D17FC742700FB9909 /* Q43.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Q43.h; sourceTree = "<group>"; };
 		8436B30C17FBBF6200337274 /* Q40.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Q40.h; sourceTree = "<group>"; };
+		84376D091811337F008A3EF8 /* Q5.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Q5.h; sourceTree = "<group>"; };
+		84376D0A18113441008A3EF8 /* Q6.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Q6.h; sourceTree = "<group>"; };
 		8456FE2B17FAC72A0063814A /* Q37.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Q37.h; sourceTree = "<group>"; };
 		8456FE2C17FAE6270063814A /* Q38.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Q38.h; sourceTree = "<group>"; };
 		8456FE2D17FB05560063814A /* Q39.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Q39.h; sourceTree = "<group>"; };
@@ -96,6 +98,8 @@
 				840BB06317FFF38800C03FDC /* Q48.h */,
 				840BB0641800014500C03FDC /* Q49.h */,
 				840BB066180044F500C03FDC /* Q50.h */,
+				84376D091811337F008A3EF8 /* Q5.h */,
+				84376D0A18113441008A3EF8 /* Q6.h */,
 			);
 			path = "book point_to_offer";
 			sourceTree = "<group>";
