@@ -41,6 +41,19 @@
 		84D003AE17FEEBBF00E5F972 /* Q46.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Q46.h; sourceTree = "<group>"; };
 		84D34FA217FFB6FC00441E0D /* template metaprogram.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "template metaprogram.h"; sourceTree = "<group>"; };
 		84D7BF5B17FCF5FA00F8D73F /* Q44.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Q44.h; sourceTree = "<group>"; };
+		84D807A3182251130020D4D5 /* Q3.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Q3.h; sourceTree = "<group>"; };
+		84D807A41822516A0020D4D5 /* Q7.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Q7.h; sourceTree = "<group>"; };
+		84D807A5182251D90020D4D5 /* Q8.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Q8.h; sourceTree = "<group>"; };
+		84D807A6182252CD0020D4D5 /* Q14.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Q14.h; sourceTree = "<group>"; };
+		84D807A7182253180020D4D5 /* Q16.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Q16.h; sourceTree = "<group>"; };
+		84D807A8182253310020D4D5 /* Q17.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Q17.h; sourceTree = "<group>"; };
+		84D807A9182253F60020D4D5 /* KMP.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KMP.h; sourceTree = "<group>"; };
+		84D807AA182254330020D4D5 /* Q19.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Q19.h; sourceTree = "<group>"; };
+		84D807AB182254580020D4D5 /* heapSort.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = heapSort.h; sourceTree = "<group>"; };
+		84D807AC182254760020D4D5 /* Q21.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Q21.h; sourceTree = "<group>"; };
+		84D807AD182254B60020D4D5 /* Q23.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Q23.h; sourceTree = "<group>"; };
+		84D807AF182254D10020D4D5 /* Q24.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Q24.h; sourceTree = "<group>"; };
+		84D807B0182255060020D4D5 /* Q26.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Q26.h; sourceTree = "<group>"; };
 		84F962D817F96BCB0094F109 /* book point_to_offer */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "book point_to_offer"; sourceTree = BUILT_PRODUCTS_DIR; };
 		84F962DB17F96BCB0094F109 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		84F962DD17F96BCB0094F109 /* book_point_to_offer.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = book_point_to_offer.1; sourceTree = "<group>"; };
@@ -100,6 +113,19 @@
 				840BB066180044F500C03FDC /* Q50.h */,
 				84376D091811337F008A3EF8 /* Q5.h */,
 				84376D0A18113441008A3EF8 /* Q6.h */,
+				84D807A3182251130020D4D5 /* Q3.h */,
+				84D807A41822516A0020D4D5 /* Q7.h */,
+				84D807A5182251D90020D4D5 /* Q8.h */,
+				84D807A6182252CD0020D4D5 /* Q14.h */,
+				84D807A7182253180020D4D5 /* Q16.h */,
+				84D807A8182253310020D4D5 /* Q17.h */,
+				84D807A9182253F60020D4D5 /* KMP.h */,
+				84D807AA182254330020D4D5 /* Q19.h */,
+				84D807AB182254580020D4D5 /* heapSort.h */,
+				84D807AC182254760020D4D5 /* Q21.h */,
+				84D807AD182254B60020D4D5 /* Q23.h */,
+				84D807AF182254D10020D4D5 /* Q24.h */,
+				84D807B0182255060020D4D5 /* Q26.h */,
 			);
 			path = "book point_to_offer";
 			sourceTree = "<group>";
